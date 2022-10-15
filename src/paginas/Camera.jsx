@@ -28,7 +28,7 @@ const WebcamCapture = () => {
         </button>
       )}
     </Webcam>
-    <img src = {cameraSRC} />
+    <img alt = "imagen" src = {cameraSRC} />
     </>
   );
 };
