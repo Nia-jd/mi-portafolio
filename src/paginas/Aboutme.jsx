@@ -1,6 +1,6 @@
 import React from 'react'
-import { AnimatePresence, motion } from "framer-motion"
-import { isVisible } from '@testing-library/user-event/dist/utils'
+import { motion } from "framer-motion"
+/*import { isVisible } from '@testing-library/user-event/dist/utils'*/
 
 export const MyComponent = () => (
   <motion.div
